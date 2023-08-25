@@ -1,0 +1,15 @@
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\bin\Debug\Urun_Takip_Sistemi.exe.config
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\bin\Debug\Urun_Takip_Sistemi.exe
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\bin\Debug\Urun_Takip_Sistemi.pdb
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.Form1.resources
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.Properties.Resources.resources
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.exe
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.pdb
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.FrmUrun.resources
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.Frmİstatistik.resources
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.FrmAdmin.resources
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.FormGrafik.resources
+C:\Users\semih\source\repos\Urun_Takip_Sistemi\Urun_Takip_Sistemi\obj\Debug\Urun_Takip_Sistemi.FrmYönlendirme1.resources
